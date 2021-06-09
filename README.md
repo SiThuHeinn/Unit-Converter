@@ -6,6 +6,7 @@ A Unit Converter project.
 
 This project is to calculate unit conversions easily.
 
+<img src="screenshots/screenshot.png" width="350">
 ![](screenshots/screenshot.png)
 
 
